@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: solarge/image:app-13
+      - image: solarge/image:app-14
         name: flaskdemo
         resources: {}
 status: {}
